@@ -114,14 +114,14 @@ import {
               </a>
             </SocialIcon>
             <SocialIcon color="55ACEE">
-              <a href="https://api.whatsapp.com/send?phone=%2B917017110988&fbclid=IwAR0Li9CaQfVXe5BMRlcHjpxs-b6lkKG3FqGo1H73jxFsdrErpA_9w9YcFiI" >
+              <a href="https://api.whatsapp.com/send?phone=%2B917060941818&fbclid=IwAR0Li9CaQfVXe5BMRlcHjpxs-b6lkKG3FqGo1H73jxFsdrErpA_9w9YcFiI" target="_blank" >
               <WhatsApp />
               </a>
             </SocialIcon>
            
           </SocialContainer>
         </Left>
-        <Center>
+        {/* <Center>
           <Title>Useful Links</Title>
           <List>
             <ListItem>Home</ListItem>
@@ -135,7 +135,7 @@ import {
             <ListItem>Wishlist</ListItem>
             <ListItem>Terms</ListItem>
           </List>
-        </Center>
+        </Center> */}
         <Right>
           <Title>Contact</Title>
           <ContactItem>

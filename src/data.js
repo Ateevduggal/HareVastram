@@ -27,17 +27,17 @@ export const sliderItems = [
     {
       id: 1,
       img: "https://imagedelivery.net/c7Bm7OoejAgEs36KV0Amvg/5ade8873-2f53-4f96-bb2d-999834c69a00/full",
-      // title: "LATEST VERSION OF DRESS",
+      title: "LATEST VERSION OF DRESS",
     },
     {
       id: 2,
       img: "https://imagedelivery.net/c7Bm7OoejAgEs36KV0Amvg/8332645f-4dfa-4014-886e-696d46d7d300/full",
-      // title: "FABRIC LADDUGOPAL POSHAK",
+      title: "FABRIC LADDUGOPAL POSHAK",
     },
     {
       id: 3,
       img: "https://imagedelivery.net/c7Bm7OoejAgEs36KV0Amvg/0a872211-f974-4b8c-cc6d-0da94b4d7800/full",
-      // title: "LADDUGOPAL SUMMER POSHAK",
+      title: "LADDUGOPAL SUMMER POSHAK",
     },
   ];
 
