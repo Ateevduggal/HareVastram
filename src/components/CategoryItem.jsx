@@ -31,7 +31,7 @@ const Title = styled.h1`
   font-size: 30px;
   color: black;
   margin-top: 15px;
-  padding: 0 5%;
+  padding: 0 8%;
 `;
 
 const Button = styled.button`
