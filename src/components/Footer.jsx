@@ -97,7 +97,7 @@ import {
     return (
       <Container>
         <Left>
-          <Logo>HAREVASHTRAM</Logo>
+          <Logo>HAREVASTRAM</Logo>
           <Desc>
           Harevashtram is a indian online Lord Gopala's Dressing selling branded and own-label products 
           . Its an India's e-commerce store for lord gopala's dressing products, Its aims to providing a hassle free and enjoyable shopping experience to shoppers across the country with the widest range of brands and products on its portal.
@@ -149,7 +149,7 @@ import {
             <Phone style={{marginRight:"10px"}}/> 7060941818
           </ContactItem>
           <ContactItem>
-            <MailOutline style={{marginRight:"10px"}} /> hr@shophree.com
+            <MailOutline style={{marginRight:"10px"}} /> support@harevastram.com
           </ContactItem>
           <Payment src="https://i.ibb.co/Qfvn4z6/payment.png" />
         </Right>

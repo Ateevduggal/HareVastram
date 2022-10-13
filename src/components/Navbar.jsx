@@ -84,8 +84,8 @@ const Navbar = () => {
           <Logo>HAREVASTRAM</Logo>
         </Center>
         <Right>
-          <MenuItem>REGISTER</MenuItem>
-          <MenuItem>SIGN IN</MenuItem>
+          {/* <MenuItem>REGISTER</MenuItem>
+          <MenuItem>SIGN IN</MenuItem> */}
           <MenuItem>
             <socialIcon color="success">
               <a href="https://api.whatsapp.com/send?phone=%2B917017110988&fbclid=IwAR0Li9CaQfVXe5BMRlcHjpxs-b6lkKG3FqGo1H73jxFsdrErpA_9w9YcFiI">
