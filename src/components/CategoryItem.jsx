@@ -19,9 +19,7 @@ const Image = styled.img`
 `;
 
 const Info = styled.div`
-  position: absolute;
-  top: 0;
-  left: 0;
+  margin-top: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -32,8 +30,8 @@ const Title = styled.h1`
   text-align: center;
   font-size: 30px;
   color: black;
-  margin-top: 75%;
-  padding: 0 2%;
+  margin-top: 15px;
+  padding: 0 5%;
 `;
 
 const Button = styled.button`
