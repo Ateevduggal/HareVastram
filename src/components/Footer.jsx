@@ -146,7 +146,7 @@ import {
             Uttar Pradesh - 282001, India
           </ContactItem>
           <ContactItem>
-            <Phone style={{marginRight:"10px"}}/> 07060941818
+            <Phone style={{marginRight:"10px"}}/> 7060941818
           </ContactItem>
           <ContactItem>
             <MailOutline style={{marginRight:"10px"}} /> hr@shophree.com
